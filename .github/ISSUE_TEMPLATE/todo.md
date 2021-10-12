@@ -28,7 +28,7 @@ assignees: ''
 
 <br>
 
-# ⌨️ Frontend
+# ⌨️ Frontend ⌨️
 ## 🔧 Vanilla JS
 - [  ] 
 
