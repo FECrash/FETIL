@@ -31,10 +31,9 @@ assignees: ''
 ## ✍️ Algorithm
 - [ ] 알고리즘 1문제 : JS-ThinkStack에 정리
 
-<br
+<br>
 
 # ⌨️ Frontend ⌨️
-
 ## 🔧 JavaScript
 - [ ] Component
 - [ ] Routing
