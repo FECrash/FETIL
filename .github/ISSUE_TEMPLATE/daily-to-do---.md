@@ -45,7 +45,10 @@ assignees: ''
 <br>
 
 ## 🦿 TypeScript
-    
+- [ ] TSCrash 진행하기
+- [ ] 바닐라JS 프로젝트 컨버팅하기
+- [ ] 리액트-타입스크립트로 플젝 진행하기
+
 <br>
 
 ## 🔨 React
