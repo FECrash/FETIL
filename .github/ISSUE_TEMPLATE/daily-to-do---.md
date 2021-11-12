@@ -34,7 +34,8 @@ assignees: ''
 <br
 
 # ⌨️ Frontend ⌨️
-## 🔧 Vanilla JS
+
+## 🔧 JavaScript
 - [ ] Component
 - [ ] Routing
 - [ ] HTTP Client(RESTful)
@@ -42,6 +43,10 @@ assignees: ''
 - [ ] Store
 - [ ] Event
 
+<br>
+
+## 🦿 TypeScript
+    
 <br>
 
 ## 🔨 React
