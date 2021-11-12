@@ -9,30 +9,35 @@ assignees: ''
 
 # 💻Computer Science💻
 ## 🧭 Operation System
-- [ ] 운영체제
+- [ ] 운영체제 1항목 : IT-Note에 정리
 
 <br>
 
 ## ⏱ Network
-- [ ] 네트워크
+- [ ] 네트워크 1항목 : IT-Note에 정리
 
 <br>
 
 ## ⏲ Database
-- [ ] 데이터베이스
+- [ ] 데이터베이스 1항목 : IT-Note에 정리
 
 <br>
 
 ## ⏰ Data Structure
-- [ ] 자료구조
+- [ ] 자료구조 1항목 : IT-Note에 정리
 
 <br>
+
+## ✍️ Algorithm
+- [ ] 알고리즘 1문제 : JS-ThinkStack에 정리
+
+<br
 
 # ⌨️ Frontend ⌨️
 ## 🔧 Vanilla JS
 - [ ] Component
 - [ ] Routing
-- [ ] HTTP Client
+- [ ] HTTP Client(RESTful)
 - [ ] State-management
 - [ ] Store
 - [ ] Event
@@ -45,12 +50,12 @@ assignees: ''
 <br>
 
 ## ⚒ HTTP
-- [ ] HTTP
+- [ ] HTTP 1항목 : IT-Note에 정리
 
 <br>
 
 ## 🛠 CSS
-- [ ] Design
+- [ ] Design 1항목 : IT-Note에 정리
 
 <br>
 
